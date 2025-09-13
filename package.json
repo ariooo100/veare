@@ -68,7 +68,7 @@
     "compression": "git://github.com/Icehunter/compression.git#bugfix/use_writeHead_instead_of_implicitHeader",
     "connect": "^3.7.0",
     "connect-cookies": "0.0.0",
-    "contentful": "^7.14.7",
+    "contentful": "^11.7.17",
     "dns-sync": "^0.2.1",
     "dotenv-safe": "^8.2.0",
     "flat-cache": "^2.0.1",
